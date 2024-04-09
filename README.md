@@ -1,3 +1,7 @@
+<!-- https://www.rapidtables.com/convert/color/rgb-to-hex.html -->
+<!-- http://shpargalkablog.ru/2016/02/space-html.html -->
+<!-- ПОСХАЛКО??? -->
+
 [▼ EN Version ▼](#main)  
 
 ## Главное
@@ -8,21 +12,27 @@
 Любимая музыка: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий VI, Rammstein; А так вообще слушаю всё кроме русской попсы и баянных NCS.
 
 ## Ссылки
-[![YT 1](https://img.shields.io/badge/YT%201-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
-[![YT 2](https://img.shields.io/badge/YT%202-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
+[![YouTube 1](https://img.shields.io/badge/YouTube%201-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
+[![Testing](https://img.shields.io/badge/Testing-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
 [![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=plastic&link=https://www.twitch.tv/dsys1100)](https://www.twitch.tv/dsys1100)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=plastic&link=https://twitter.com/dsys1100)](https://twitter.com/dsys1100)
 [![Instagram](https://img.shields.io/badge/Instagram-FBBB65?style=plastic&link=https://instagram.com/username_dsys1100)](https://instagram.com/username_dsys1100)
+[![Reddit](https://img.shields.io/badge/Reddit-FF460B?style=plastic&link=https://www.reddit.com/user/dsys1100)](https://www.reddit.com/user/dsys1100)
+[![Pikabu](https://img.shields.io/badge/Pikabu-F2944C?style=plastic&link=https://pikabu.ru/@dsys1100)](https://pikabu.ru/@dsys1100)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&link=https://github.com/dsys1100)](https://github.com/dsys1100)
 [![Testing](https://img.shields.io/badge/Testing-black?style=plastic&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
-[![Archive](https://img.shields.io/badge/Archive-222222?style=plastic&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100) 
+[![Gitlab](https://img.shields.io/badge/Gitlab-E3442B?style=plastic&link=https://gitlab.com/dsys1100)](https://gitlab.com/dsys1100)
+[![Archive](https://img.shields.io/badge/Archive-222222?style=plastic&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)
+[![Modrinch](https://img.shields.io/badge/Modrinch-00AE63?style=plastic&link=https://modrinth.com/user/dsys1100)](https://modrinth.com/user/dsys1100)  
 [![BK](https://img.shields.io/badge/BK-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
 [![Telegram](https://img.shields.io/badge/Telegram-2399D6?style=plastic&link=https://t.me/dsys1100)](https://t.me/dsys1100)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&link=https://discord.com/users/690945624740462613)](https://discord.com/users/690945624740462613)
-[![Server](https://img.shields.io/badge/Server-5865F2?style=plastic&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG) 
+[![Server](https://img.shields.io/badge/Server-5865F2?style=plastic&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG)   
 [![Donate](https://img.shields.io/badge/Donate-F58D07?style=plastic&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
+[![DonatePay](https://img.shields.io/badge/DonatePay-4BBE60?style=plastic&link=https://new.donatepay.ru/@dsys1100)](https://new.donatepay.ru/@dsys1100)
 [![Boosty](https://img.shields.io/badge/Boosty-EF7731?style=plastic&link=https://boosty.to/dsys1100/)](https://boosty.to/dsys1100/)
-[![Steam](https://img.shields.io/badge/Steam-0E1C31?style=plastic&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
+[![Steam](https://img.shields.io/badge/Steam-0E1C31?style=plastic&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)   
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-E8701E?style=plastic&link=https://stackoverflow.com/users/24115252/)](https://stackoverflow.com/users/24115252/)
 
 ## Мои проекты
 [Скрипты, штуки](https://github.com/dsys1100/stuff)
@@ -54,7 +64,8 @@
    [Список без бага, Android 12](https://4pda.to/forum/index.php?act=findpost&pid=115649997&anchor=Spoil-115649997-2)  
    [Мой репак MIUI12.5_A10_el13_port](https://mega.nz/folder/FHIh3AoT#Gx7hUabXruD8UD_-z-f73A)  
    [Мой репак Vsmart OS 4, a11](https://mega.nz/folder/oapFHCyb#rCAt6FYycC9xS5o8gkcZ_w)  
-   [Google logo + dark bootanimation](https://mega.nz/folder/hSQWzbSa#YrDWHYqQe1Ibz7oaS_2Sng)
+   [Google logo + dark bootanimation](https://mega.nz/folder/hSQWzbSa#YrDWHYqQe1Ibz7oaS_2Sng)  
+   [Мой репак Pixel Experience Plus, a12.1](https://mega.nz/folder/FPwk2K6J#9GfVyy5cULZKU0ZyHMhReQ)
 </details>
 
 <details><summary>Штуки для Redmi Note 5</summary>
@@ -63,8 +74,8 @@
    [Мой репак Pixel Experience Plus, a12.1](https://mega.nz/folder/wDQxXSQS#N01IXGw4jtWdH6PEjrD2gA)
 </details>
 
-[Мой сайт (пробую переехать с него в гитхаб профиль)](https://dsys1100.github.io/index.html)
-
+[Мой Markdown-based сайт](https://dsys1100.github.io/index.html)  
+[Мой старый сайт (иногда обновляется)](https://dsys1100.github.io/oldsite/index.html)
 ## Устройства
 <details><summary>Компьютер</summary>
 
@@ -102,12 +113,6 @@
   MIUI12.5a10_el13_dsys1100repack  
 </details>
 
-<details><summary>Lumia 950</summary>
-
-   3/32  
-  Win 10 Desktop, my repack  
-</details>
-
 -----
 
 ## Main
@@ -119,21 +124,27 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
 
 
 ## Links
-[![YT 1](https://img.shields.io/badge/YT%201-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
-[![YT 2](https://img.shields.io/badge/YT%202-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
+[![YouTube 1](https://img.shields.io/badge/YouTube%201-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
+[![Testing](https://img.shields.io/badge/Testing-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
 [![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=plastic&link=https://www.twitch.tv/dsys1100)](https://www.twitch.tv/dsys1100)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=plastic&link=https://twitter.com/dsys1100)](https://twitter.com/dsys1100)
 [![Instagram](https://img.shields.io/badge/Instagram-FBBB65?style=plastic&link=https://instagram.com/username_dsys1100)](https://instagram.com/username_dsys1100)
+[![Reddit](https://img.shields.io/badge/Reddit-FF460B?style=plastic&link=https://www.reddit.com/user/dsys1100)](https://www.reddit.com/user/dsys1100)
+[![Pikabu](https://img.shields.io/badge/Pikabu-F2944C?style=plastic&link=https://pikabu.ru/@dsys1100)](https://pikabu.ru/@dsys1100)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&link=https://github.com/dsys1100)](https://github.com/dsys1100)
 [![Testing](https://img.shields.io/badge/Testing-black?style=plastic&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
-[![Archive](https://img.shields.io/badge/Archive-222222?style=plastic&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100) 
+[![Gitlab](https://img.shields.io/badge/Gitlab-E3442B?style=plastic&link=https://gitlab.com/dsys1100)](https://gitlab.com/dsys1100)
+[![Archive](https://img.shields.io/badge/Archive-222222?style=plastic&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)
+[![Modrinch](https://img.shields.io/badge/Modrinch-00AE63?style=plastic&link=https://modrinth.com/user/dsys1100)](https://modrinth.com/user/dsys1100)  
 [![VK](https://img.shields.io/badge/VK-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
 [![Telegram](https://img.shields.io/badge/Telegram-2399D6?style=plastic&link=https://t.me/dsys1100)](https://t.me/dsys1100)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&link=https://discord.com/users/690945624740462613)](https://discord.com/users/690945624740462613)
-[![Server](https://img.shields.io/badge/Server-5865F2?style=plastic&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG) 
+[![Server](https://img.shields.io/badge/Server-5865F2?style=plastic&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG)   
 [![Donate](https://img.shields.io/badge/Donate-F58D07?style=plastic&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
+[![DonatePay](https://img.shields.io/badge/DonatePay-4BBE60?style=plastic&link=https://new.donatepay.ru/@dsys1100)](https://new.donatepay.ru/@dsys1100)
 [![Boosty](https://img.shields.io/badge/Boosty-EF7731?style=plastic&link=https://boosty.to/dsys1100/)](https://boosty.to/dsys1100/)
-[![Steam](https://img.shields.io/badge/Steam-0E1C31?style=plastic&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
+[![Steam](https://img.shields.io/badge/Steam-0E1C31?style=plastic&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)   
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-E8701E?style=plastic&link=https://stackoverflow.com/users/24115252/)](https://stackoverflow.com/users/24115252/)
 
 ## My projects
 [Scripts, stuff](https://github.com/dsys1100/stuff)
@@ -165,7 +176,8 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
    [List without bug, Android 12](https://4pda.to/forum/index.php?act=findpost&pid=115649997&anchor=Spoil-115649997-2)  
    [My repack MIUI12.5_A10_el13_port](https://mega.nz/folder/FHIh3AoT#Gx7hUabXruD8UD_-z-f73A)  
    [My repack Vsmart OS 4, a11](https://mega.nz/folder/oapFHCyb#rCAt6FYycC9xS5o8gkcZ_w)  
-   [Google logo + dark bootanimation](https://mega.nz/folder/hSQWzbSa#YrDWHYqQe1Ibz7oaS_2Sng)
+   [Google logo + dark bootanimation](https://mega.nz/folder/hSQWzbSa#YrDWHYqQe1Ibz7oaS_2Sng)  
+   [My repack Pixel Experience Plus, a12.1](https://mega.nz/folder/FPwk2K6J#9GfVyy5cULZKU0ZyHMhReQ)
 </details>
 
 <details><summary>Redmi Note 5 stuff</summary>
@@ -174,7 +186,8 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
    [My repack Pixel Experience Plus, a12.1](https://mega.nz/folder/wDQxXSQS#N01IXGw4jtWdH6PEjrD2gA)
 </details>
 
-[My site (trying to move from there to here)](https://dsys1100.github.io/index.html)
+[My Markdown-based site](https://dsys1100.github.io/index.html)  
+[My old site (sometimes updated)](https://dsys1100.github.io/oldsite/index.html)
 
 ## Devices
 <details><summary>PC</summary>
@@ -211,10 +224,4 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
   PostmarketOS, KDE-Desktop  
   Pixel Experience 12.1, my repack  
   MIUI12.5a10_el13_dsys1100repack  
-</details>
-
-<details><summary>Lumia 950</summary>
-
-   3/32  
-  Win 10 Desktop, my repack  
 </details>
