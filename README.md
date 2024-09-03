@@ -1,6 +1,5 @@
 <!-- https://www.rapidtables.com/convert/color/rgb-to-hex.html -->
 <!-- http://shpargalkablog.ru/2016/02/space-html.html -->
-<!-- ПОСХАЛКО??? -->
 
 [▼ EN Version ▼](#main)  
 
@@ -9,7 +8,7 @@
 Возраст: 31.08.2004  
 Время: UTC+4  
 Интересы: Музыка, техника, операционные системы и Minecraft.  
-Любимая музыка: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий VI, Rammstein; А так вообще слушаю всё кроме русской попсы и баянных NCS.
+Любимая музыка: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий IV, Rammstein; А так вообще слушаю всё кроме русской попсы и баянных NCS.
 
 ## Ссылки
 [![YouTube 1](https://img.shields.io/badge/YouTube%201-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
@@ -39,18 +38,17 @@
 
 <details><summary>Windows сборки</summary>
   
-   Большинство сборок комплектуются сборкой WinPE, основной язык - русский.  
-   [Minimal PE10 x64 19041.572](https://mega.nz/folder/IGA1xAaJ#A9TXDs919Dc-7YH3EbH-gA)  
-   [W11 Pro 22H2 22621.1344 Lite](https://mega.nz/folder/0LAWEBaB#a51NzSRH38tE1bp0mrOo4g)  
-   [W11 Pro RTM 22k1641 Lite](https://mega.nz/folder/VW5CHSxZ#nR3W960r1Xe2MXPdK7Z1Ag)  
-   [W10 x64 LTSC 19044.1288 Lite](https://mega.nz/folder/YCZw1JSa#5Ym3TphFSz1qtHfNTqrsPQ)  
-   [W8.1 x64 EmbIndPro Lite](https://mega.nz/folder/tDgmwB7T#m1sUrcKpOvaxwwEbeDHAaw)  
-   Старые  
-   [W11 Pro 21996 Lite (EN ONLY)](https://mega.nz/folder/ULZRXbQY#Vq_OIUUUBbruX4xJePqLoA)  
-   [W10 x64 LTSB Micro (My)](https://mega.nz/folder/Mf4TQKjD#AGJ0uY1WPxipcU3NWhzWIg)  
-   [W10 x64 LTSB Micro (Flibustier&My)](https://mega.nz/folder/ce4jTTAC#NfnpuEXMRLSBJsY4V-mc8w)  
-   [W8.0 x64 Pro 9200 MD](https://mega.nz/folder/lX5XXTBI#jgTIU1yXsoC_jN81Xkr3xg)  
-   [W8.0 x64 Pro 8400 MD](https://mega.nz/folder/lPI0wLZB#Kr7BUvzQ6_F8PZYr_JYCtg)  
+   Большинство сборок комплектуются сборкой WinPE.  
+   [Minimal PE8 x64](https://mega.nz/folder/sGZ3iSoI#pU2s3sWqjIKJ4tcLP9umCg) /RU  
+   [Minimal PE10 x64 19041.572](https://mega.nz/folder/IGA1xAaJ#A9TXDs919Dc-7YH3EbH-gA) /RU / Заброшено  
+   [W11 25398.1 Pro **Reconstructed** Lite](https://mega.nz/folder/JHBECKxK#jYdpBmhveW3t3XzRKvydLA) /EN  
+   [w11.22k2652+22635.2915_w10ltsc21.3803 MD](https://mega.nz/folder/FLYElJKY#Yrma6UzW9Iw89Wroj3VtUQ) /EN  
+   [W8.1x64 EmbIndPro U23 Lite](https://mega.nz/folder/tDgmwB7T#m1sUrcKpOvaxwwEbeDHAaw) /RU  
+   Старые:  
+   [21390.2025 Lite](https://mega.nz/folder/JeAF2KCb#ABqTo-YeCQ9CwpiywfPo2w) /EN  
+   [W11 Pro 21996 Lite](https://mega.nz/folder/ULZRXbQY#Vq_OIUUUBbruX4xJePqLoA) /EN  
+   [W8.0x64 Pro 9200 MD](https://mega.nz/folder/lX5XXTBI#jgTIU1yXsoC_jN81Xkr3xg) /RU  
+   Старее - не востребованы.
 </details>
 
 <details><summary>Курсоры для Windows</summary>
@@ -114,13 +112,15 @@
 </details>
 
 -----
+-----
+
 
 ## Main
 Danil(a). Nanostreamer, Windows user, little Linux user, guy xd.  
 Age: 31.08.2004  
 Timezone: UTC+4  
 Interests: Music, technology, operating systems and Minecraft.  
-Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий VI, Rammstein; I listen to everything except Russian pop and OverPopular NCS.  
+Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий IV, Rammstein; I listen to everything except Russian pop and OverPopular NCS.  
 
 
 ## Links
@@ -151,18 +151,18 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
 
 <details><summary>Custom Windows builds</summary>
   
-   Most builds come with Custom WinPE, main language is Russian.  
-   [Minimal PE10 x64 19041.572](https://mega.nz/folder/IGA1xAaJ#A9TXDs919Dc-7YH3EbH-gA)  
-   [W11 Pro 22H2 22621.1344 Lite](https://mega.nz/folder/0LAWEBaB#a51NzSRH38tE1bp0mrOo4g)  
-   [W11 Pro RTM 22k1641 Lite](https://mega.nz/folder/VW5CHSxZ#nR3W960r1Xe2MXPdK7Z1Ag)  
-   [W10 x64 LTSC 19044.1288 Lite](https://mega.nz/folder/YCZw1JSa#5Ym3TphFSz1qtHfNTqrsPQ)  
-   [W8.1 x64 EmbIndPro Lite](https://mega.nz/folder/tDgmwB7T#m1sUrcKpOvaxwwEbeDHAaw)  
-   Old    
-   [W11 Pro 21996 Lite (EN ONLY)](https://mega.nz/folder/ULZRXbQY#Vq_OIUUUBbruX4xJePqLoA)  
-   [W10 x64 LTSB Micro (My)](https://mega.nz/folder/Mf4TQKjD#AGJ0uY1WPxipcU3NWhzWIg)  
-   [W10 x64 LTSB Micro (Flibustier&My)](https://mega.nz/folder/ce4jTTAC#NfnpuEXMRLSBJsY4V-mc8w)  
-   [W8.0 x64 Pro 9200 MD](https://mega.nz/folder/lX5XXTBI#jgTIU1yXsoC_jN81Xkr3xg)  
-   [W8.0 x64 Pro 8400 MD](https://mega.nz/folder/lPI0wLZB#Kr7BUvzQ6_F8PZYr_JYCtg)  
+   Most builds come with Custom Rus WinPE.  
+   (I can't find minimal WinPEs in English that weigh less than 250mb)  
+   [Minimal PE8 x64](https://mega.nz/folder/sGZ3iSoI#pU2s3sWqjIKJ4tcLP9umCg) /RU  
+   [Minimal PE10 x64 19041.572](https://mega.nz/folder/IGA1xAaJ#A9TXDs919Dc-7YH3EbH-gA) /RU / Deprecated  
+   [W11 25398.1 Pro **Reconstructed** Lite](https://mega.nz/folder/JHBECKxK#jYdpBmhveW3t3XzRKvydLA) /EN  
+   [w11.22k2652+22635.2915_w10ltsc21.3803 MD](https://mega.nz/folder/FLYElJKY#Yrma6UzW9Iw89Wroj3VtUQ) /EN  
+   [W8.1x64 EmbIndPro U23 Lite](https://mega.nz/folder/tDgmwB7T#m1sUrcKpOvaxwwEbeDHAaw) /RU  
+   Old:  
+   [21390.2025 Lite](https://mega.nz/folder/JeAF2KCb#ABqTo-YeCQ9CwpiywfPo2w) /EN  
+   [W11 Pro 21996 Lite](https://mega.nz/folder/ULZRXbQY#Vq_OIUUUBbruX4xJePqLoA) /EN  
+   [W8.0x64 Pro 9200 MD](https://mega.nz/folder/lX5XXTBI#jgTIU1yXsoC_jN81Xkr3xg) /RU  
+   Older - unclaimed.
 </details>
 
 <details><summary>Windows Cursors</summary>
