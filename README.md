@@ -39,7 +39,12 @@
 [![Modrinch](https://img.shields.io/badge/Modrinch-00AE63?style=plastic&link=https://modrinth.com/user/dsys1100)](https://modrinth.com/user/dsys1100)
 
 ## Мои проекты
-[Скрипты, штуки](https://github.com/dsys1100/stuff)  
+[Скрипты и другое для Linux](https://github.com/dsys1100/stuff)  
+[RN4 buttons PMOS](https://github.com/dsys1100/xiaomi-mido-buttons)  
+[Oneliner для FireFox](https://github.com/dsys1100/waterfall_mod)  
+[VerticalTabCSS для FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
+[Автопатчер Telegram на АЮГРАМ](https://github.com/dsys1100/tg-autolspatch)  
+[Автобилдер PostmarketOS под RN4](https://github.com/dsys1100/pmos-autobuild)  
 [Конфиги](https://github.com/dsys1100/dotfiles)
 
 <details><summary>Windows сборки</summary>
@@ -47,7 +52,8 @@
    Большинство сборок комплектуются сборкой WinPE.  
    [Minimal PE8 x64](https://mega.nz/folder/sGZ3iSoI#pU2s3sWqjIKJ4tcLP9umCg) /RU  
    [Minimal PE10 x64 19041.572](https://mega.nz/folder/IGA1xAaJ#A9TXDs919Dc-7YH3EbH-gA) /RU / Заброшено  
-   [W11 25398.1 Pro **Reconstructed** Lite](https://mega.nz/folder/JHBECKxK#jYdpBmhveW3t3XzRKvydLA) /EN  
+   [W11 LTSC 22624.1546 MD](https://mega.nz/folder/waZwnTaA#gez2pkVQ1j-09DTEyBFacA) /EN  
+   [W11 25398.1 Pro **Reconstructed** Lite](https://mega.nz/folder/JHBECKxK#jYdpBmhveW3t3XzRKvydLA) /EN / Заброшено  
    [w11.22k2652+22635.2915_w10ltsc21.3803 MD](https://mega.nz/folder/FLYElJKY#Yrma6UzW9Iw89Wroj3VtUQ) /EN  
    [W8.1x64 EmbIndPro U23 Lite](https://mega.nz/folder/tDgmwB7T#m1sUrcKpOvaxwwEbeDHAaw) /RU  
    Старые:  
@@ -101,6 +107,15 @@
    Samsung 2GB DDR3L 1600MHz  
    SSD 2.5" Apacer 256GB  
    HDD 2.5" WD 1TB  
+</details>
+
+<details><summary>Периферия</summary>
+
+   Наушники: Panasonic HJE125E-V ❤️  
+   Монитор: AOC G2460V  
+   Клавиатура: A4Tech Fstyler FK11  
+   Мышь: Xiaomi Mi Wireless Mouse Lite 2  
+   Мышь 2: A4Tech Fstyler FM12  
 </details>
 
 <details><summary>Redmi Note 5</summary>
@@ -196,16 +211,22 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 [![Modrinch](https://img.shields.io/badge/Modrinch-00AE63?style=plastic&link=https://modrinth.com/user/dsys1100)](https://modrinth.com/user/dsys1100)
 
 ## My projects
-[Scripts, stuff](https://github.com/dsys1100/stuff)  
-[Configs](https://github.com/dsys1100/dotfiles)
+[Scripts and Linux stuff](https://github.com/dsys1100/stuff)  
+[RN4 buttons PMOS](https://github.com/dsys1100/xiaomi-mido-buttons)  
+[Oneliner for FireFox](https://github.com/dsys1100/waterfall_mod)  
+[VerticalTabCSS for FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
+[Autopatcher Telegram to AYUGRAM](https://github.com/dsys1100/tg-autolspatch)  
+[Autobuilder PostmarketOS for RN4](https://github.com/dsys1100/pmos-autobuild)  
+[Dotfiles](https://github.com/dsys1100/dotfiles)
 
 <details><summary>Custom Windows builds</summary>
   
    Most builds come with Custom Rus WinPE.  
-   (I can't find minimal WinPEs in English that weigh less than 250mb)  
+   (I can't find minimal WinPEs in English with internet and explorer that weigh less than 250mb)  
    [Minimal PE8 x64](https://mega.nz/folder/sGZ3iSoI#pU2s3sWqjIKJ4tcLP9umCg) /RU  
    [Minimal PE10 x64 19041.572](https://mega.nz/folder/IGA1xAaJ#A9TXDs919Dc-7YH3EbH-gA) /RU / Deprecated  
-   [W11 25398.1 Pro **Reconstructed** Lite](https://mega.nz/folder/JHBECKxK#jYdpBmhveW3t3XzRKvydLA) /EN  
+   [W11 LTSC 22624.1546 MD](https://mega.nz/folder/waZwnTaA#gez2pkVQ1j-09DTEyBFacA) /EN  
+   [W11 25398.1 Pro **Reconstructed** Lite](https://mega.nz/folder/JHBECKxK#jYdpBmhveW3t3XzRKvydLA) /EN / Deprecated  
    [w11.22k2652+22635.2915_w10ltsc21.3803 MD](https://mega.nz/folder/FLYElJKY#Yrma6UzW9Iw89Wroj3VtUQ) /EN  
    [W8.1x64 EmbIndPro U23 Lite](https://mega.nz/folder/tDgmwB7T#m1sUrcKpOvaxwwEbeDHAaw) /RU  
    Old:  
@@ -240,7 +261,7 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 [My old site (sometimes updated)](https://dsys1100.github.io/oldsite/index.html)
 
 ## Devices
-<details><summary>PC</summary>
+<details><summary>Desktop</summary>
 
    AeroCool ECO-450W  
    Gigabyte H410M H V3  
@@ -252,7 +273,7 @@ I recently made a playlist with the music I listen to most often. [Click](https:
    PowerCase Alisio Micro X4B  
 </details>
 
-<details><summary>Notebook Lenovo B570e</summary>
+<details><summary>Laptop Lenovo B570e</summary>
 
    Intel Core i3-2350M  
    Intel HD Graphics 3000  
@@ -260,6 +281,15 @@ I recently made a playlist with the music I listen to most often. [Click](https:
    Samsung 2GB DDR3L 1600MHz  
    SSD 2.5" Apacer 256GB  
    HDD 2.5" WD 1TB  
+</details>
+
+<details><summary>Peripherals</summary>
+
+   Earphones: Panasonic HJE125E-V ❤️  
+   Monitor: AOC G2460V  
+   Keyboard: A4Tech Fstyler FK11  
+   Mouse: Xiaomi Mi Wireless Mouse Lite 2  
+   Mouse 2: A4Tech Fstyler FM12  
 </details>
 
 <details><summary>Redmi Note 5</summary>
