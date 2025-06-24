@@ -7,7 +7,7 @@
 Данил(а). Наностример, виндузятник, чуть-чуть линуксоид, просто чел.  
 Возраст: 31.08.2004  
 Время: UTC+4  
-Интересы: Музыка, техника, ОС и их моддинг/репакинг и Minecraft.  
+Интересы: Музыка, техника, скриптинг, автоматизация, ОС и их моддинг/репакинг и Minecraft.  
 Любимая музыка: Lodoss, Oxxxymiron, OMNIXX, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий IV, Rammstein; А так вообще слушаю всё кроме русской попсы и баянных NCS.  
 Недавно сделал плейлист с музыкой, который слушаю чаще всего. [Тык](https://vk.com/music/playlist/325323467_112_55c64c9939ff9a7ac1)
 
@@ -44,7 +44,8 @@
 [Oneliner для FireFox](https://github.com/dsys1100/waterfall_mod)  
 [VerticalTabCSS для FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
 [Автопатчер Telegram на АЮГРАМ](https://github.com/dsys1100/tg-autolspatch)  
-[Автобилдер PostmarketOS под RN4](https://github.com/dsys1100/pmos-autobuild)  
+[Автобилдер pmOS с ТВОИМИ настройками](https://github.com/dsys1100/pmos-autobuild)  
+[Перезаливщик файлов на CI - Private](https://github.com/dsys1100/pmos-autobuild)  
 [Конфиги](https://github.com/dsys1100/dotfiles)
 
 <details><summary>Windows сборки</summary>
@@ -179,7 +180,7 @@ Mi MIX 2S (Величайшее Разочарование)
 Danil(a). Nanostreamer, Windows user, little Linux user, guy xd.  
 Age: 31.08.2004  
 Timezone: UTC+4  
-Interests: Music, technology, OS and their modding/repacking and Minecraft.  
+Interests: Music, technology, scripting, automatization, OS and their modding/repacking and Minecraft.  
 Favorite music/artists: Lodoss, Oxxxymiron, OMNIXX, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий IV, Rammstein; I listen to everything except Russian pop and OverPopular NCS.  
 I recently made a playlist with the music I listen to most often. [Click](https://vk.com/music/playlist/325323467_112_55c64c9939ff9a7ac1)
 
@@ -216,7 +217,8 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 [Oneliner for FireFox](https://github.com/dsys1100/waterfall_mod)  
 [VerticalTabCSS for FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
 [Autopatcher Telegram to AYUGRAM](https://github.com/dsys1100/tg-autolspatch)  
-[Autobuilder PostmarketOS for RN4](https://github.com/dsys1100/pmos-autobuild)  
+[Autobuilder pmOS with YOUR settings](https://github.com/dsys1100/pmos-autobuild)  
+[File mirroring on CI - Private](https://github.com/dsys1100/pmos-autobuild)  
 [Dotfiles](https://github.com/dsys1100/dotfiles)
 
 <details><summary>Custom Windows builds</summary>
