@@ -41,11 +41,12 @@
 ## Мои проекты
 [Скрипты и другое для Linux](https://github.com/dsys1100/stuff)  
 [RN4 buttons PMOS](https://github.com/dsys1100/xiaomi-mido-buttons)  
-[Oneliner для FireFox](https://github.com/dsys1100/waterfall_mod)  
+[OnelinerCSS для FireFox](https://github.com/dsys1100/waterfall_mod)  
 [VerticalTabCSS для FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
 [Автопатчер Telegram на АЮГРАМ](https://github.com/dsys1100/tg-autolspatch)  
 [Автобилдер pmOS с ТВОИМИ настройками](https://github.com/dsys1100/pmos-autobuild)  
-[Перезаливщик файлов на CI - Private](https://github.com/dsys1100/pmos-autobuild)  
+[Перезаливщик файлов на Actions / Prvt](https://github.com/dsys1100/filemirror/actions/workflows/build.yml)  
+[Загрузчик apk с GP на Actions / Prvt](https://github.com/dsys1100/apk-downloader/actions/workflows/download_apk.yml)  
 [Конфиги](https://github.com/dsys1100/dotfiles)
 
 <details><summary>Windows сборки</summary>
@@ -170,6 +171,7 @@ Redmi Note 9 Pro (Батареяфон, лопата)
 Redmi Note 5 (4/64 red, все еще со мной)  
 Lumia 950 (Для винды, +-разочарование)  
 Mi MIX 2S (Величайшее Разочарование)  
+Pixel 3a (Плохая батарея, разочарование)  
 </details>
 
 -----
@@ -214,11 +216,12 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 ## My projects
 [Scripts and Linux stuff](https://github.com/dsys1100/stuff)  
 [RN4 buttons PMOS](https://github.com/dsys1100/xiaomi-mido-buttons)  
-[Oneliner for FireFox](https://github.com/dsys1100/waterfall_mod)  
+[OnelinerCSS for FireFox](https://github.com/dsys1100/waterfall_mod)  
 [VerticalTabCSS for FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
 [Autopatcher Telegram to AYUGRAM](https://github.com/dsys1100/tg-autolspatch)  
 [Autobuilder pmOS with YOUR settings](https://github.com/dsys1100/pmos-autobuild)  
-[File mirroring on CI - Private](https://github.com/dsys1100/pmos-autobuild)  
+[Filemirror on Actions / Prvt](https://github.com/dsys1100/filemirror/actions/workflows/build.yml)  
+[apk Downloader from GP on Actions / Prvt](https://github.com/dsys1100/apk-downloader/actions/workflows/download_apk.yml)  
 [Dotfiles](https://github.com/dsys1100/dotfiles)
 
 <details><summary>Custom Windows builds</summary>
@@ -344,4 +347,5 @@ Redmi Note 9 Pro (Batteryphone, very big for me)
 Redmi Note 5 (4/64 red, still with me)  
 Lumia 950 (For Windows, +-disappointment)  
 Mi MIX 2S (VERY Disappointment)  
+Pixel 3a (Bad battery, disappointment)  
 </details>
