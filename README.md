@@ -86,6 +86,12 @@
    [Мой репак Pixel Experience Plus, a12.1](https://mega.nz/folder/wDQxXSQS#N01IXGw4jtWdH6PEjrD2gA)
 </details>
 
+<details><summary>Штуки для Redmi S2</summary>
+
+   [System 6GB скрипт переразметки](https://4pda.to/forum/index.php?showtopic=915294&view=findpost&p=139118586)  
+   [PixelOS 15 sGSI](https://drive.google.com/drive/folders/1xPKdpw6dzIfUVK9elymgdWPwwEVtS3VX)
+</details>
+
 [Мой Markdown-based сайт](https://dsys1100.github.io/)  
 [Мой старый сайт (иногда обновляется)](https://dsys1100.github.io/oldsite/index.html)
 ## Устройства
@@ -160,7 +166,7 @@ Asus ZenFone Max Pro M1 (После прошивок менял матрицу 2
 Redmi 5A (Закастомил крышку)  
 Honor 8 Lite (Ху/Хо параша ебаная)  
 Wileyfox Swift 2X (Меня наебали)  
-Redmi Note 4 (3/32 веригуд, Все еще со мной)  
+Redmi Note 4 (3/32 веригуд, F ±2021-2025)  
 Honor 9 Lite (Ху/Хо параша ебаная)  
 Galaxy J2 Prime (Мамин, как доп.)  
 Redmi 5 Plus (Без вибрации)  
@@ -169,7 +175,7 @@ Redmi Note 7 (3/32 это боль лютая)
 Galaxy S10e (exynos / абсолютный сток)  
 Redmi Note 9 Pro (Батареяфон, лопата)  
 Redmi Note 5 (4/64 red, все еще со мной)  
-Lumia 950 (Для винды, +-разочарование)  
+Lumia 950 (Для винды, ±разочарование)  
 Mi MIX 2S (Величайшее Разочарование)  
 Pixel 3a (Плохая батарея, разочарование)  
 </details>
@@ -262,6 +268,12 @@ I recently made a playlist with the music I listen to most often. [Click](https:
    [My repack Pixel Experience Plus, a12.1](https://mega.nz/folder/wDQxXSQS#N01IXGw4jtWdH6PEjrD2gA)
 </details>
 
+<details><summary>Redmi S2 stuff</summary>
+
+   [System 6GB repartition script](https://4pda.to/forum/index.php?showtopic=915294&view=findpost&p=139118586)  
+   [PixelOS 15 sGSI](https://drive.google.com/drive/folders/1xPKdpw6dzIfUVK9elymgdWPwwEVtS3VX)
+</details>
+
 [My Markdown-based site](https://dsys1100.github.io/)  
 [My old site (sometimes updated)](https://dsys1100.github.io/oldsite/index.html)
 
@@ -336,7 +348,7 @@ Asus ZenFone Max Pro M1 (Changed the display 2 times after flashing)
 Redmi 5A (Got the cover customized)  
 Honor 8 Lite (Hu/Ho is fckng sht.)  
 Wileyfox Swift 2X (I've been duped)  
-Redmi Note 4 (3/32 verygood, Still with me)  
+Redmi Note 4 (3/32 verygood, F ±2021-2025)  
 Honor 9 Lite (Hu/Ho is fckng sht.)  
 Galaxy J2 Prime (Mom's)  
 Redmi 5 Plus (No Vibration)  
@@ -345,7 +357,7 @@ Redmi Note 7 (3/32 is a pain)
 Galaxy S10e (exynos / all time locked bootloader)  
 Redmi Note 9 Pro (Batteryphone, very big for me)  
 Redmi Note 5 (4/64 red, still with me)  
-Lumia 950 (For Windows, +-disappointment)  
+Lumia 950 (For Windows, ±disappointment)  
 Mi MIX 2S (VERY Disappointment)  
 Pixel 3a (Bad battery, disappointment)  
 </details>
