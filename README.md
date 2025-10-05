@@ -89,7 +89,9 @@
 <details><summary>Штуки для Redmi S2</summary>
 
    [System 6GB скрипт переразметки](https://4pda.to/forum/index.php?showtopic=915294&view=findpost&p=139118586)  
-   [PixelOS 15 sGSI](https://drive.google.com/drive/folders/1xPKdpw6dzIfUVK9elymgdWPwwEVtS3VX)
+   [PixelOS 15 sGSI](https://mega.nz/folder/QfAX0LwY#YbYdR0m5VG62S7mWkbiEAA)  
+   [LOS 222qs16 sGSI](https://mega.nz/folder/9HBzxLLb#hNVjFcCoj4AZs9E488EGug)  
+   [Derpfest 16 sGSI](https://mega.nz/folder/EaoyVT4T#IF-trbW50J_rNTHqGldzwA)
 </details>
 
 [Мой Markdown-based сайт](https://dsys1100.github.io/)  
@@ -271,7 +273,9 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 <details><summary>Redmi S2 stuff</summary>
 
    [System 6GB repartition script](https://4pda.to/forum/index.php?showtopic=915294&view=findpost&p=139118586)  
-   [PixelOS 15 sGSI](https://drive.google.com/drive/folders/1xPKdpw6dzIfUVK9elymgdWPwwEVtS3VX)
+   [PixelOS 15 sGSI](https://mega.nz/folder/QfAX0LwY#YbYdR0m5VG62S7mWkbiEAA)  
+   [LOS 222qs16 sGSI](https://mega.nz/folder/9HBzxLLb#hNVjFcCoj4AZs9E488EGug)  
+   [Derpfest 16 sGSI](https://mega.nz/folder/EaoyVT4T#IF-trbW50J_rNTHqGldzwA)
 </details>
 
 [My Markdown-based site](https://dsys1100.github.io/)  
