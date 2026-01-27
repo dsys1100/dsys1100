@@ -12,57 +12,50 @@
 Недавно сделал плейлист с музыкой, который слушаю чаще всего. [Тык](https://vk.com/music/playlist/325323467_112_55c64c9939ff9a7ac1)
 
 ## Ссылки
-[![YouTube](https://img.shields.io/badge/YouTube-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
-[![Testing](https://img.shields.io/badge/Testing-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
-[![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=plastic&link=https://www.twitch.tv/dsys1100)](https://www.twitch.tv/dsys1100)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=plastic&link=https://twitter.com/dsys1100)](https://twitter.com/dsys1100)
-[![Instagram](https://img.shields.io/badge/Instagram-FC115D?style=plastic&link=https://instagram.com/username_dsys1100)](https://instagram.com/username_dsys1100)
-[![Facebook](https://img.shields.io/badge/Facebook-076BF9?style=plastic&link=https://www.facebook.com/dsys1100/)](https://www.facebook.com/dsys1100/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF460B?style=plastic&link=https://www.reddit.com/user/dsys1100)](https://www.reddit.com/user/dsys1100)
-[![Pikabu](https://img.shields.io/badge/Pikabu-F2944C?style=plastic&link=https://pikabu.ru/@dsys1100)](https://pikabu.ru/@dsys1100)
-[![Spotify](https://img.shields.io/badge/Spotify-13D56C?style=plastic&link=https://open.spotify.com/user/31ppg2dvvaqfzis6mbkwhck76epa)](https://open.spotify.com/user/31ppg2dvvaqfzis6mbkwhck76epa)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&link=https://github.com/dsys1100)](https://github.com/dsys1100)
-[![Testing](https://img.shields.io/badge/Testing-black?style=plastic&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
-[![Gitlab](https://img.shields.io/badge/Gitlab-E3442B?style=plastic&link=https://gitlab.com/dsys1100)](https://gitlab.com/dsys1100)
-[![Archive](https://img.shields.io/badge/Archive-222222?style=plastic&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)  
-[![BK](https://img.shields.io/badge/BK-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
-[![Telegram](https://img.shields.io/badge/Telegram-2399D6?style=plastic&link=https://t.me/dsys1100)](https://t.me/dsys1100)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&link=https://discord.com/users/690945624740462613)](https://discord.com/users/690945624740462613)
-[![Server](https://img.shields.io/badge/Server-5865F2?style=plastic&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG)
-[![Matrix](https://img.shields.io/badge/Matrix-black?style=plastic&link=https://matrix.to/#/@dsys1100:matrix.org)](https://matrix.to/#/@dsys1100:matrix.org)   
-[![Steam](https://img.shields.io/badge/Steam-0E1C31?style=plastic&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
-[![Trade](https://img.shields.io/badge/Trade-0E1C31?style=plastic&link=https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)](https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)
-[![Donate](https://img.shields.io/badge/Donate-F58D07?style=plastic&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
-[![DonatePay](https://img.shields.io/badge/DonatePay-4BBE60?style=plastic&link=https://new.donatepay.ru/@dsys1100)](https://new.donatepay.ru/@dsys1100)
-[![Boosty](https://img.shields.io/badge/Boosty-EF7731?style=plastic&link=https://boosty.to/dsys1100/)](https://boosty.to/dsys1100/)   
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-E8701E?style=plastic&link=https://stackoverflow.com/users/24115252/)](https://stackoverflow.com/users/24115252/)
-[![Modrinch](https://img.shields.io/badge/Modrinch-00AE63?style=plastic&link=https://modrinth.com/user/dsys1100)](https://modrinth.com/user/dsys1100)
+[![YouTube](https://img.shields.io/badge/YouTube-F61C0D?style=flat&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
+[![Testing](https://img.shields.io/badge/Testing-F61C0D?style=flat&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
+[![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=flat&link=https://www.twitch.tv/dsys1100)](https://www.twitch.tv/dsys1100)
+[![Instagram](https://img.shields.io/badge/Instagram-FC115D?style=flat&link=https://instagram.com/username_dsys1100)](https://instagram.com/username_dsys1100) 
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat&link=https://twitter.com/dsys1100)](https://twitter.com/dsys1100)
+[![Facebook](https://img.shields.io/badge/Facebook-076BF9?style=flat&link=https://www.facebook.com/dsys1100/)](https://www.facebook.com/dsys1100/) 
+[![4PDA](https://img.shields.io/badge/4PDA-4476C0?style=flat&link=https://4pda.to/forum/index.php?showuser=6356752)](https://4pda.to/forum/index.php?showuser=6356752)
+[![MDL](https://img.shields.io/badge/MDL-F5E06B?style=flat&link=https://forums.mydigitallife.net/members/dsys1100.1469271)](https://forums.mydigitallife.net/members/dsys1100.1469271)
+[![Reddit](https://img.shields.io/badge/Reddit-FF460B?style=flat&link=https://www.reddit.com/user/dsys1100)](https://www.reddit.com/user/dsys1100)
+[![Pikabu](https://img.shields.io/badge/Pikabu-F2944C?style=flat&link=https://pikabu.ru/@dsys1100)](https://pikabu.ru/@dsys1100)  
+[![EMail](https://img.shields.io/badge/Mail-FFFFFF?style=flat&link=mailto:uefi@duck.com)](mailto:uefi@duck.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2399D6?style=flat&link=https://t.me/dsys1100)](https://t.me/dsys1100)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&link=https://discord.com/users/690945624740462613)](https://discord.com/users/690945624740462613)
+[![Server](https://img.shields.io/badge/Server-5865F2?style=flat&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG)
+[![Matrix](https://img.shields.io/badge/Matrix-black?style=flat&link=https://matrix.to/#/@dsys1100:matrix.org)](https://matrix.to/#/@dsys1100:matrix.org)
+[![BK](https://img.shields.io/badge/BK-0077FF?style=flat&link=https://vk.com/dsys1100)](https://vk.com/dsys1100) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&link=https://github.com/dsys1100)](https://github.com/dsys1100)
+[![Testing](https://img.shields.io/badge/Testing-black?style=flat&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
+[![Gitlab](https://img.shields.io/badge/Gitlab-E3442B?style=flat&link=https://gitlab.com/dsys1100)](https://gitlab.com/dsys1100)
+[![Archive](https://img.shields.io/badge/Archive-222222?style=flat&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)  
+[![Steam](https://img.shields.io/badge/Steam-0E1C31?style=flat&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
+[![Trade](https://img.shields.io/badge/Trade-0E1C31?style=flat&link=https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)](https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)
+[![Donate](https://img.shields.io/badge/Donate-F58D07?style=flat&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
+[![DonatePay](https://img.shields.io/badge/DonatePay-4BBE60?style=flat&link=https://new.donatepay.ru/@dsys1100)](https://new.donatepay.ru/@dsys1100)
+[![Boosty](https://img.shields.io/badge/Boosty-EF7731?style=flat&link=https://boosty.to/dsys1100/)](https://boosty.to/dsys1100/) 
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-E8701E?style=flat&link=https://stackoverflow.com/users/24115252/)](https://stackoverflow.com/users/24115252/)
+[![Modrinch](https://img.shields.io/badge/Modrinch-00AE63?style=flat&link=https://modrinth.com/user/dsys1100)](https://modrinth.com/user/dsys1100)
+[![Spotify](https://img.shields.io/badge/Spotify-13D56C?style=flat&link=https://open.spotify.com/user/31ppg2dvvaqfzis6mbkwhck76epa)](https://open.spotify.com/user/31ppg2dvvaqfzis6mbkwhck76epa)
+[![LZT](https://img.shields.io/badge/LZT-27AC77?style=flat&link=https://lolz.live/members/8075425)](https://lolz.live/members/8075425)
 
 ## Мои проекты
 [Скрипты и другое для Linux](https://github.com/dsys1100/stuff)  
-[RN4 buttons PMOS](https://github.com/dsys1100/xiaomi-mido-buttons)  
 [OnelinerCSS для FireFox](https://github.com/dsys1100/waterfall_mod)  
 [VerticalTabCSS для FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
 [Автопатчер Telegram на АЮГРАМ](https://github.com/dsys1100/tg-autolspatch)  
 [Автобилдер pmOS с ТВОИМИ настройками](https://github.com/dsys1100/pmos-autobuild)  
 [Перезаливщик файлов на Actions / Prvt](https://github.com/dsys1100/filemirror/actions/workflows/build.yml)  
 [Загрузчик apk с GP на Actions / Prvt](https://github.com/dsys1100/apk-downloader/actions/workflows/download_apk.yml)  
+[Линуксовые бинарники](https://github.com/dsys1100/static-binaries)  
 [Конфиги](https://github.com/dsys1100/dotfiles)
 
 <details><summary>Windows сборки</summary>
   
-   Большинство сборок комплектуются сборкой WinPE.  
-   [Minimal PE8 x64](https://mega.nz/folder/sGZ3iSoI#pU2s3sWqjIKJ4tcLP9umCg) /RU  
-   [Minimal PE10 x64 19041.572](https://mega.nz/folder/IGA1xAaJ#A9TXDs919Dc-7YH3EbH-gA) /RU / Заброшено  
-   [W11 LTSC 22624.1546 MD](https://mega.nz/folder/waZwnTaA#gez2pkVQ1j-09DTEyBFacA) /EN  
-   [W11 25398.1 Pro **Reconstructed** Lite](https://mega.nz/folder/JHBECKxK#jYdpBmhveW3t3XzRKvydLA) /EN / Заброшено  
-   [w11.22k2652+22635.2915_w10ltsc21.3803 MD](https://mega.nz/folder/FLYElJKY#Yrma6UzW9Iw89Wroj3VtUQ) /EN  
-   [W8.1x64 EmbIndPro U23 Lite](https://mega.nz/folder/tDgmwB7T#m1sUrcKpOvaxwwEbeDHAaw) /RU  
-   Старые:  
-   [21390.2025 Lite](https://mega.nz/folder/JeAF2KCb#ABqTo-YeCQ9CwpiywfPo2w) /EN  
-   [W11 Pro 21996 Lite](https://mega.nz/folder/ULZRXbQY#Vq_OIUUUBbruX4xJePqLoA) /EN  
-   [W8.0x64 Pro 9200 MD](https://mega.nz/folder/lX5XXTBI#jgTIU1yXsoC_jN81Xkr3xg) /RU  
-   Старее - не востребованы.
+   На переработке
 </details>
 
 <details><summary>Курсоры для Windows</summary>
@@ -104,8 +97,9 @@
    Intel Core i3-10100F BOX  
    MSI NVIDIA GeForce GTX 1050 Ti  
    KingSpec 16GB DDR4 3200 MHz  
-   SSD 2.5" KingSpec 256GB  
+   SSD NVME Toshiba BG4 256GB  
    SSD 2.5" Samsung 870 QVO 2TB  
+   SSD 2.5" KingSpec 256GB  
    PowerCase Alisio Micro X4B  
 </details>
 
@@ -119,9 +113,19 @@
    HDD 2.5" WD 1TB  
 </details>
 
+<details><summary>Планшет Lenovo Thinkpad X1 Tablet</summary>
+
+   Intel Core i7-8650U  
+   Intel UHD Graphics 620  
+   16GB ОЗУ  
+   SSD Intel 1TB  
+</details>
+
 <details><summary>Периферия</summary>
 
-   Наушники: Panasonic HJE125E-V ❤️  
+   Наушники: Sony WH-CH720N  
+   Наушники 2: Panasonic HJE125E-V ❤️  
+   Наушники 3: Mi In-Ear Headphones Basic  
    Монитор: AOC G2460V  
    Клавиатура: A4Tech Fstyler FK11  
    Мышь: Xiaomi Mi Wireless Mouse Lite 2  
@@ -180,6 +184,8 @@ Redmi Note 5 (4/64 red, все еще со мной)
 Lumia 950 (Для винды, ±разочарование)  
 Mi MIX 2S (Величайшее Разочарование)  
 Pixel 3a (Плохая батарея, разочарование)  
+Redmi S2 (mido 18:9 720p, 3/32, приемлимо)  
+Mi Pad2 (Кастомный, разочарование)  
 </details>
 
 -----
@@ -196,57 +202,50 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 
 
 ## Links
-[![YouTube](https://img.shields.io/badge/YouTube-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
-[![Testing](https://img.shields.io/badge/Testing-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
-[![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=plastic&link=https://www.twitch.tv/dsys1100)](https://www.twitch.tv/dsys1100)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=plastic&link=https://twitter.com/dsys1100)](https://twitter.com/dsys1100)
-[![Instagram](https://img.shields.io/badge/Instagram-FC115D?style=plastic&link=https://instagram.com/username_dsys1100)](https://instagram.com/username_dsys1100)
-[![Facebook](https://img.shields.io/badge/Facebook-076BF9?style=plastic&link=https://www.facebook.com/dsys1100/)](https://www.facebook.com/dsys1100/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF460B?style=plastic&link=https://www.reddit.com/user/dsys1100)](https://www.reddit.com/user/dsys1100)
-[![Spotify](https://img.shields.io/badge/Spotify-13D56C?style=plastic&link=https://open.spotify.com/user/31ppg2dvvaqfzis6mbkwhck76epa)](https://open.spotify.com/user/31ppg2dvvaqfzis6mbkwhck76epa)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&link=https://github.com/dsys1100)](https://github.com/dsys1100)
-[![Testing](https://img.shields.io/badge/Testing-black?style=plastic&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
-[![Gitlab](https://img.shields.io/badge/Gitlab-E3442B?style=plastic&link=https://gitlab.com/dsys1100)](https://gitlab.com/dsys1100)
-[![Archive](https://img.shields.io/badge/Archive-222222?style=plastic&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)  
-[![VK](https://img.shields.io/badge/BK-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
-[![Telegram](https://img.shields.io/badge/Telegram-2399D6?style=plastic&link=https://t.me/dsys1100)](https://t.me/dsys1100)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&link=https://discord.com/users/690945624740462613)](https://discord.com/users/690945624740462613)
-[![Server](https://img.shields.io/badge/Server-5865F2?style=plastic&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG)
-[![Matrix](https://img.shields.io/badge/Matrix-black?style=plastic&link=https://matrix.to/#/@dsys1100:matrix.org)](https://matrix.to/#/@dsys1100:matrix.org)   
-[![Steam](https://img.shields.io/badge/Steam-0E1C31?style=plastic&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
-[![Trade](https://img.shields.io/badge/Trade-0E1C31?style=plastic&link=https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)](https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)
-[![Donate](https://img.shields.io/badge/Donate-F58D07?style=plastic&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
-[![DonatePay](https://img.shields.io/badge/DonatePay-4BBE60?style=plastic&link=https://new.donatepay.ru/@dsys1100)](https://new.donatepay.ru/@dsys1100)
-[![Boosty](https://img.shields.io/badge/Boosty-EF7731?style=plastic&link=https://boosty.to/dsys1100/)](https://boosty.to/dsys1100/)   
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-E8701E?style=plastic&link=https://stackoverflow.com/users/24115252/)](https://stackoverflow.com/users/24115252/)
-[![Modrinch](https://img.shields.io/badge/Modrinch-00AE63?style=plastic&link=https://modrinth.com/user/dsys1100)](https://modrinth.com/user/dsys1100)
+[![YouTube](https://img.shields.io/badge/YouTube-F61C0D?style=flat&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
+[![Testing](https://img.shields.io/badge/Testing-F61C0D?style=flat&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
+[![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=flat&link=https://www.twitch.tv/dsys1100)](https://www.twitch.tv/dsys1100)
+[![Instagram](https://img.shields.io/badge/Instagram-FC115D?style=flat&link=https://instagram.com/username_dsys1100)](https://instagram.com/username_dsys1100) 
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat&link=https://twitter.com/dsys1100)](https://twitter.com/dsys1100)
+[![Facebook](https://img.shields.io/badge/Facebook-076BF9?style=flat&link=https://www.facebook.com/dsys1100/)](https://www.facebook.com/dsys1100/) 
+[![4PDA](https://img.shields.io/badge/4PDA-4476C0?style=flat&link=https://4pda.to/forum/index.php?showuser=6356752)](https://4pda.to/forum/index.php?showuser=6356752)
+[![MDL](https://img.shields.io/badge/MDL-F5E06B?style=flat&link=https://forums.mydigitallife.net/members/dsys1100.1469271)](https://forums.mydigitallife.net/members/dsys1100.1469271)
+[![Reddit](https://img.shields.io/badge/Reddit-FF460B?style=flat&link=https://www.reddit.com/user/dsys1100)](https://www.reddit.com/user/dsys1100)
+[![Pikabu](https://img.shields.io/badge/Pikabu-F2944C?style=flat&link=https://pikabu.ru/@dsys1100)](https://pikabu.ru/@dsys1100)  
+[![EMail](https://img.shields.io/badge/Mail-FFFFFF?style=flat&link=mailto:uefi@duck.com)](mailto:uefi@duck.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2399D6?style=flat&link=https://t.me/dsys1100)](https://t.me/dsys1100)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&link=https://discord.com/users/690945624740462613)](https://discord.com/users/690945624740462613)
+[![Server](https://img.shields.io/badge/Server-5865F2?style=flat&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG)
+[![Matrix](https://img.shields.io/badge/Matrix-black?style=flat&link=https://matrix.to/#/@dsys1100:matrix.org)](https://matrix.to/#/@dsys1100:matrix.org)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=flat&link=https://vk.com/dsys1100)](https://vk.com/dsys1100) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&link=https://github.com/dsys1100)](https://github.com/dsys1100)
+[![Testing](https://img.shields.io/badge/Testing-black?style=flat&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
+[![Gitlab](https://img.shields.io/badge/Gitlab-E3442B?style=flat&link=https://gitlab.com/dsys1100)](https://gitlab.com/dsys1100)
+[![Archive](https://img.shields.io/badge/Archive-222222?style=flat&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)  
+[![Steam](https://img.shields.io/badge/Steam-0E1C31?style=flat&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
+[![Trade](https://img.shields.io/badge/Trade-0E1C31?style=flat&link=https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)](https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)
+[![Donate](https://img.shields.io/badge/Donate-F58D07?style=flat&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
+[![DonatePay](https://img.shields.io/badge/DonatePay-4BBE60?style=flat&link=https://new.donatepay.ru/@dsys1100)](https://new.donatepay.ru/@dsys1100)
+[![Boosty](https://img.shields.io/badge/Boosty-EF7731?style=flat&link=https://boosty.to/dsys1100/)](https://boosty.to/dsys1100/) 
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-E8701E?style=flat&link=https://stackoverflow.com/users/24115252/)](https://stackoverflow.com/users/24115252/)
+[![Modrinch](https://img.shields.io/badge/Modrinch-00AE63?style=flat&link=https://modrinth.com/user/dsys1100)](https://modrinth.com/user/dsys1100)
+[![Spotify](https://img.shields.io/badge/Spotify-13D56C?style=flat&link=https://open.spotify.com/user/31ppg2dvvaqfzis6mbkwhck76epa)](https://open.spotify.com/user/31ppg2dvvaqfzis6mbkwhck76epa)
+[![LZT](https://img.shields.io/badge/LZT-27AC77?style=flat&link=https://lolz.live/members/8075425)](https://lolz.live/members/8075425)
 
 ## My projects
 [Scripts and Linux stuff](https://github.com/dsys1100/stuff)  
-[RN4 buttons PMOS](https://github.com/dsys1100/xiaomi-mido-buttons)  
 [OnelinerCSS for FireFox](https://github.com/dsys1100/waterfall_mod)  
 [VerticalTabCSS for FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
 [Autopatcher Telegram to AYUGRAM](https://github.com/dsys1100/tg-autolspatch)  
 [Autobuilder pmOS with YOUR settings](https://github.com/dsys1100/pmos-autobuild)  
 [Filemirror on Actions / Prvt](https://github.com/dsys1100/filemirror/actions/workflows/build.yml)  
 [apk Downloader from GP on Actions / Prvt](https://github.com/dsys1100/apk-downloader/actions/workflows/download_apk.yml)  
+[Linux binaries](https://github.com/dsys1100/static-binaries)  
 [Dotfiles](https://github.com/dsys1100/dotfiles)
 
 <details><summary>Custom Windows builds</summary>
   
-   Most builds come with Custom Rus WinPE.  
-   (I can't find minimal WinPEs in English with internet and explorer that weigh less than 250mb)  
-   [Minimal PE8 x64](https://mega.nz/folder/sGZ3iSoI#pU2s3sWqjIKJ4tcLP9umCg) /RU  
-   [Minimal PE10 x64 19041.572](https://mega.nz/folder/IGA1xAaJ#A9TXDs919Dc-7YH3EbH-gA) /RU / Deprecated  
-   [W11 LTSC 22624.1546 MD](https://mega.nz/folder/waZwnTaA#gez2pkVQ1j-09DTEyBFacA) /EN  
-   [W11 25398.1 Pro **Reconstructed** Lite](https://mega.nz/folder/JHBECKxK#jYdpBmhveW3t3XzRKvydLA) /EN / Deprecated  
-   [w11.22k2652+22635.2915_w10ltsc21.3803 MD](https://mega.nz/folder/FLYElJKY#Yrma6UzW9Iw89Wroj3VtUQ) /EN  
-   [W8.1x64 EmbIndPro U23 Lite](https://mega.nz/folder/tDgmwB7T#m1sUrcKpOvaxwwEbeDHAaw) /RU  
-   Old:  
-   [21390.2025 Lite](https://mega.nz/folder/JeAF2KCb#ABqTo-YeCQ9CwpiywfPo2w) /EN  
-   [W11 Pro 21996 Lite](https://mega.nz/folder/ULZRXbQY#Vq_OIUUUBbruX4xJePqLoA) /EN  
-   [W8.0x64 Pro 9200 MD](https://mega.nz/folder/lX5XXTBI#jgTIU1yXsoC_jN81Xkr3xg) /RU  
-   Older - unclaimed.
+   Under construction
 </details>
 
 <details><summary>Windows Cursors</summary>
@@ -289,8 +288,9 @@ I recently made a playlist with the music I listen to most often. [Click](https:
    Intel Core i3-10100F BOX  
    MSI NVIDIA GeForce GTX 1050 Ti  
    KingSpec 16GB DDR4 3200 MHz  
-   SSD 2.5" KingSpec 256GB  
+   SSD NVME Toshiba BG4 256GB  
    SSD 2.5" Samsung 870 QVO 2TB  
+   SSD 2.5" KingSpec 256GB  
    PowerCase Alisio Micro X4B  
 </details>
 
@@ -304,9 +304,19 @@ I recently made a playlist with the music I listen to most often. [Click](https:
    HDD 2.5" WD 1TB  
 </details>
 
+<details><summary>Lenovo Thinkpad X1 Tablet</summary>
+
+   Intel Core i7-8650U  
+   Intel UHD Graphics 620  
+   16GB RAM  
+   SSD Intel 1TB  
+</details>
+
 <details><summary>Peripherals</summary>
 
-   Earphones: Panasonic HJE125E-V ❤️  
+   Headphones: Sony WH-CH720N  
+   Earphones 2: Panasonic HJE125E-V ❤️  
+   Earphones 3: Mi In-Ear Headphones Basic  
    Monitor: AOC G2460V  
    Keyboard: A4Tech Fstyler FK11  
    Mouse: Xiaomi Mi Wireless Mouse Lite 2  
@@ -364,4 +374,6 @@ Redmi Note 5 (4/64 red, still with me)
 Lumia 950 (For Windows, ±disappointment)  
 Mi MIX 2S (VERY Disappointment)  
 Pixel 3a (Bad battery, disappointment)  
+Redmi S2 (mido 18:9 720p, 3/32, acceptable)  
+Mi Pad2 (Custom, disappointment)  
 </details>
