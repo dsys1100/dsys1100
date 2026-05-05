@@ -6,10 +6,11 @@
 ## Главное
 Данил(а). Наностример, виндузятник, чуть-чуть линуксоид, просто чел.  
 Возраст: 31.08.2004  
+Рост: ±165  
 Время: UTC+4  
 Интересы: Музыка, техника, скриптинг, автоматизация, ОС и их моддинг/репакинг и Minecraft.  
 Любимая музыка: Lodoss, Oxxxymiron, OMNIXX, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий IV, Rammstein; А так вообще слушаю всё кроме русской попсы и баянных NCS.  
-Недавно сделал плейлист с музыкой, который слушаю чаще всего. [Тык](https://vk.com/music/playlist/325323467_112_55c64c9939ff9a7ac1)
+Недавно сделал плейлист с музыкой, который слушаю чаще всего. [Тык](https://vk.ru/music/playlist/325323467_112_55c64c9939ff9a7ac1)
 
 ## Ссылки
 [![YouTube](https://img.shields.io/badge/YouTube-F61C0D?style=flat&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
@@ -48,6 +49,7 @@
 [VerticalTabCSS для FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
 [Автопатчер Telegram на АЮГРАМ](https://github.com/dsys1100/tg-autolspatch)  
 [Автобилдер pmOS с ТВОИМИ настройками](https://github.com/dsys1100/pmos-autobuild)  
+[Нормальная автосборка DebianOnMido](https://github.com/dsys1100/debian-on-mido-auto)  
 [Перезаливщик файлов на Actions / Prvt](https://github.com/dsys1100/filemirror/actions/workflows/build.yml)  
 [Загрузчик apk с GP на Actions / Prvt](https://github.com/dsys1100/apk-downloader/actions/workflows/download_apk.yml)  
 [Линуксовые бинарники](https://github.com/dsys1100/static-binaries)  
@@ -79,16 +81,21 @@
    [Мой репак Pixel Experience Plus, a12.1](https://mega.nz/folder/wDQxXSQS#N01IXGw4jtWdH6PEjrD2gA)
 </details>
 
-<details><summary>Штуки для Redmi S2</summary>
+[Мой Markdown-based сайт](https://dsys1100.github.io/)  
+[Мой старый сайт (иногда обновляется)](https://dsys1100.github.io/oldsite/index.html)
+
+<details><summary>Архивное</summary>
+   <details><summary>Штуки для Redmi S2</summary>
 
    [System 6GB скрипт переразметки](https://4pda.to/forum/index.php?showtopic=915294&view=findpost&p=139118586)  
    [PixelOS 15 sGSI](https://mega.nz/folder/QfAX0LwY#YbYdR0m5VG62S7mWkbiEAA)  
    [LOS 222qs16 sGSI](https://mega.nz/folder/9HBzxLLb#hNVjFcCoj4AZs9E488EGug)  
    [Derpfest 16 sGSI](https://mega.nz/folder/EaoyVT4T#IF-trbW50J_rNTHqGldzwA)
+   </details>
+
+[DistroboxButKVM / Prvt](https://github.com/dsys1100/virtcont)  
 </details>
 
-[Мой Markdown-based сайт](https://dsys1100.github.io/)  
-[Мой старый сайт (иногда обновляется)](https://dsys1100.github.io/oldsite/index.html)
 ## Устройства
 <details><summary>Компьютер</summary>
 
@@ -99,13 +106,12 @@
    KingSpec 16GB DDR4 3200 MHz  
    SSD NVME Toshiba BG4 256GB  
    SSD 2.5" Samsung 870 QVO 2TB  
-   SSD 2.5" KingSpec 256GB  
    PowerCase Alisio Micro X4B  
 </details>
 
 <details><summary>Ноутбук Lenovo B570e</summary>
 
-   Intel Core i3-2350M  
+   Intel Core i5-2540M  
    Intel HD Graphics 3000  
    Nanya 4GB DDR3 1333MHz  
    Samsung 2GB DDR3L 1600MHz  
@@ -121,9 +127,18 @@
    SSD Intel 1TB  
 </details>
 
+<details><summary>Сервер Headless B570e</summary>
+
+   Intel Core i3-2350M  
+   Intel HD Graphics 3000  
+   Crucial 2GB DDR3 1333MHz (Один слот)  
+   SSD 2.5" KingSpec 256GB  
+   DVD RW, Без клавиатуры  
+</details>
+
 <details><summary>Периферия</summary>
 
-   Наушники: Sony WH-CH720N  
+   Наушники: Sony WH-CH720N (Тканевые амбюшуры)  
    Наушники 2: Panasonic HJE125E-V ❤️  
    Наушники 3: Mi In-Ear Headphones Basic  
    Монитор: AOC G2460V  
@@ -132,9 +147,16 @@
    Мышь 2: A4Tech Fstyler FM12  
 </details>
 
+<details><summary>Redmi Note 12 4G</summary>
+
+   6/128, NFC version  
+  HyperOS 2.2 💀, ID Stock  
+</details>
+
 <details><summary>Redmi Note 5</summary>
 
    4/64,  
+  Pixel Experience 13, my repack  
   Pixel Experience 12.1, my repack  
 </details>
 
@@ -142,6 +164,7 @@
 
    3/32, Snapdragon  
   PostmarketOS, KDE-Desktop  
+  Pixel Experience 13, my repack  
   Pixel Experience 12.1, my repack  
   MIUI12.5a10_el13_dsys1100repack  
 </details>
@@ -149,6 +172,7 @@
 
 <details><summary>Список устройств, которыми я владел</summary>
 
+[Папочка с фотками этих штуковин](https://drive.google.com/drive/folders/1sUZxRfP5e_mZU3wl1_OWakXnlfynRum9?usp=sharing)  
 ?  
 Explay Solo (2 штуки, обе подарок от Деда (сгрыз буквально))  
 ?  
@@ -160,32 +184,37 @@ Nokia 7500 Prism (Мамин)
 ?  
 Nokia Asha 202 (Мамин)  
 ?  
-Alcatel 1X (Мама пополам переломала)  
-Micromax Q415 (От Витали, я юзал MIUI 9 на нем)  
+Alcatel 1X (Мама пополам переломала, кстати мой первый нормальный телефон, на который снимались влоги и "фильмы" нашей компашки друзей)  
+Micromax Q415 (От Витали, я юзал MIUI 8 на нем. Плохая батарея, кнопка питания, разьем зарядки, разьем 3.5, пятно на камере)  
 Supra M12CG (Планшет, из-за кастома перевернутый гироскоп)  
-Samsung Galaxy Mega (Мылит камера)  
+Samsung Galaxy Mega 5.8 (Мылит камера, скол на экране)  
 Meizu M5 Note (На него обмен микромакса, меги и трупа ноута)  
-4Good T800i / T803i (Планшет на винде (1гб озу хд))  
+4Good T803i (Планшет на винде (1гб озу хд))  
+Mi Max 1 (Очень недолго владел)  
 Redmi Note 4X (На миакке, анлокнутый)  
+Galaxy J2 Prime (Очень недолго владел)  
 Redmi 6 Pro (9 класс)  
-Asus ZenFone Max Pro M1 (После прошивок менял матрицу 2 раза)  
+Asus ZenFone Max Pro M1 (После прошивок менял матрицу 2 раза, обычно использовал с MIUI 12)  
 Redmi 5A (Закастомил крышку)  
 Honor 8 Lite (Ху/Хо параша ебаная)  
-Wileyfox Swift 2X (Меня наебали)  
-Redmi Note 4 (3/32 веригуд, F ±2021-2025)  
+Wileyfox Swift 2X (Меня наебали по памяти)  
+Redmi Note 4 (3/32 веригуд, F ±2021-2025, ожил фев2026)  
 Honor 9 Lite (Ху/Хо параша ебаная)  
-Galaxy J2 Prime (Мамин, как доп.)  
+Galaxy J2 Prime (Мамин, использовался как запасной)  
 Redmi 5 Plus (Без вибрации)  
-Redmi Note 5 (3/32 гуд)  
+Redmi Note 5 (3/32 ±гуд)  
 Redmi Note 7 (3/32 это боль лютая)  
 Galaxy S10e (exynos / абсолютный сток)  
 Redmi Note 9 Pro (Батареяфон, лопата)  
 Redmi Note 5 (4/64 red, все еще со мной)  
-Lumia 950 (Для винды, ±разочарование)  
-Mi MIX 2S (Величайшее Разочарование)  
-Pixel 3a (Плохая батарея, разочарование)  
-Redmi S2 (mido 18:9 720p, 3/32, приемлимо)  
-Mi Pad2 (Кастомный, разочарование)  
+Lumia 950 (Для винды, ±разочарование из-за слабого проца на винде)  
+Mi MIX 2S (Величайшее Разочарование, жор батареи на любом кастоме, гемор с MirPay. На винде работает лучше чем на андроиде)  
+Pixel 3a (Плохая батарея, выгорания, разочарование)  
+Mi Note 10 (Разочарование из-за плохой батареи, тяжеленький)  
+Redmi S2 (mido 18:9 720p, Лось 23.2 удивительно хорош на 3/32, отдал бабушке)  
+Mi Pad2 (Кастомный, разочарование. Из-за модификаций не работает fastboot, проц-атом, usb 2.0)  
+Redmi Note 12 4G NFC (Шляпа из-за 120гц, жестко лагает на 60гц)  
+Qin F22 Pro 4/64 (Для бабушки, еще больше захотел F21. Бабушке не понравилось)  
 </details>
 
 -----
@@ -195,10 +224,11 @@ Mi Pad2 (Кастомный, разочарование)
 ## Main
 Danil(a). Nanostreamer, Windows user, little Linux user, guy xd.  
 Age: 31.08.2004  
+Height: ±165  
 Timezone: UTC+4  
 Interests: Music, technology, scripting, automatization, OS and their modding/repacking and Minecraft.  
 Favorite music/artists: Lodoss, Oxxxymiron, OMNIXX, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий IV, Rammstein; I listen to everything except Russian pop and OverPopular NCS.  
-I recently made a playlist with the music I listen to most often. [Click](https://vk.com/music/playlist/325323467_112_55c64c9939ff9a7ac1)
+I recently made a playlist with the music I listen to most often. [Click](https://vk.ru/music/playlist/325323467_112_55c64c9939ff9a7ac1)
 
 
 ## Links
@@ -238,6 +268,7 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 [VerticalTabCSS for FireFox](https://github.com/dsys1100/firefoxcss_StockMod)  
 [Autopatcher Telegram to AYUGRAM](https://github.com/dsys1100/tg-autolspatch)  
 [Autobuilder pmOS with YOUR settings](https://github.com/dsys1100/pmos-autobuild)  
+[Normal autobuilder DebianOnMido](https://github.com/dsys1100/debian-on-mido-auto)  
 [Filemirror on Actions / Prvt](https://github.com/dsys1100/filemirror/actions/workflows/build.yml)  
 [apk Downloader from GP on Actions / Prvt](https://github.com/dsys1100/apk-downloader/actions/workflows/download_apk.yml)  
 [Linux binaries](https://github.com/dsys1100/static-binaries)  
@@ -269,16 +300,20 @@ I recently made a playlist with the music I listen to most often. [Click](https:
    [My repack Pixel Experience Plus, a12.1](https://mega.nz/folder/wDQxXSQS#N01IXGw4jtWdH6PEjrD2gA)
 </details>
 
-<details><summary>Redmi S2 stuff</summary>
+[My Markdown-based site](https://dsys1100.github.io/)  
+[My old site (sometimes updated)](https://dsys1100.github.io/oldsite/index.html)
+
+<details><summary>Archive</summary>
+   <details><summary>Redmi S2 stuff</summary>
 
    [System 6GB repartition script](https://4pda.to/forum/index.php?showtopic=915294&view=findpost&p=139118586)  
    [PixelOS 15 sGSI](https://mega.nz/folder/QfAX0LwY#YbYdR0m5VG62S7mWkbiEAA)  
    [LOS 222qs16 sGSI](https://mega.nz/folder/9HBzxLLb#hNVjFcCoj4AZs9E488EGug)  
    [Derpfest 16 sGSI](https://mega.nz/folder/EaoyVT4T#IF-trbW50J_rNTHqGldzwA)
-</details>
+   </details>
 
-[My Markdown-based site](https://dsys1100.github.io/)  
-[My old site (sometimes updated)](https://dsys1100.github.io/oldsite/index.html)
+[DistroboxButKVM / Prvt](https://github.com/dsys1100/virtcont)  
+</details>
 
 ## Devices
 <details><summary>Desktop</summary>
@@ -290,13 +325,12 @@ I recently made a playlist with the music I listen to most often. [Click](https:
    KingSpec 16GB DDR4 3200 MHz  
    SSD NVME Toshiba BG4 256GB  
    SSD 2.5" Samsung 870 QVO 2TB  
-   SSD 2.5" KingSpec 256GB  
    PowerCase Alisio Micro X4B  
 </details>
 
 <details><summary>Laptop Lenovo B570e</summary>
 
-   Intel Core i3-2350M  
+   Intel Core i5-2540M  
    Intel HD Graphics 3000  
    Nanya 4GB DDR3 1333MHz  
    Samsung 2GB DDR3L 1600MHz  
@@ -312,9 +346,18 @@ I recently made a playlist with the music I listen to most often. [Click](https:
    SSD Intel 1TB  
 </details>
 
+<details><summary>Server Headless B570e</summary>
+
+   Intel Core i3-2350M  
+   Intel HD Graphics 3000  
+   Crucial 2GB DDR3 1333MHz (One slot)  
+   SSD 2.5" KingSpec 256GB  
+   DVD RW, No keyboard  
+</details>
+
 <details><summary>Peripherals</summary>
 
-   Headphones: Sony WH-CH720N  
+   Headphones: Sony WH-CH720N (Fabric EarPads)  
    Earphones 2: Panasonic HJE125E-V ❤️  
    Earphones 3: Mi In-Ear Headphones Basic  
    Monitor: AOC G2460V  
@@ -323,9 +366,16 @@ I recently made a playlist with the music I listen to most often. [Click](https:
    Mouse 2: A4Tech Fstyler FM12  
 </details>
 
+<details><summary>Redmi Note 12 4G</summary>
+
+   6/128, NFC version  
+  HyperOS 2.2 💀, ID Stock  
+</details>
+
 <details><summary>Redmi Note 5</summary>
 
    4/64,  
+  Pixel Experience 13, my repack  
   Pixel Experience 12.1, my repack  
 </details>
 
@@ -333,12 +383,14 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 
    3/32, Snapdragon  
   PostmarketOS, KDE-Desktop  
+  Pixel Experience 13, my repack  
   Pixel Experience 12.1, my repack  
   MIUI12.5a10_el13_dsys1100repack  
 </details>
 
 <details><summary>List of devices I've owned</summary>
 
+[Folder with photos of this things](https://drive.google.com/drive/folders/1sUZxRfP5e_mZU3wl1_OWakXnlfynRum9?usp=sharing)  
 ?  
 Explay Solo (2 pieces, both a gift from Grandpa)  
 ?  
@@ -350,30 +402,35 @@ Nokia 7500 Prism (Mom's)
 ?  
 Nokia Asha 202 (Mom's)  
 ?  
-Alcatel 1X (Mom broke it in half)  
-Micromax Q415 (From Vitaliy, I used MIUI 9 on it)  
+Alcatel 1X (Mom broke it in half, btw this was my first decent phone—the one we used to shoot vlogs and "movies" with our group of friends)  
+Micromax Q415 (From Vitaliy, I used MIUI 8 on it. Poor battery, power button, charging port, 3.5mm jack, and a smudge on the camera.)  
 Supra M12CG (Tablet, inverted gyroscope because of the custom ROM)  
-Samsung Galaxy Mega (Camera washes out)  
+Samsung Galaxy Mega (Camera washes out, cracked screen)  
 Meizu M5 Note (I traded Micromax, Samsung and died crap laptop for it)  
 4Good T800i / T803i (Windows tablet (1gb RAM xd))  
+Mi Max 1 (I owned it for a very short time)  
 Redmi Note 4X (With Mi Account, unlocked and flashed)  
+Galaxy J2 Prime (I owned it for a very short time)  
 Redmi 6 Pro (Grade 9 in school)  
-Asus ZenFone Max Pro M1 (Changed the display 2 times after flashing)  
+Asus ZenFone Max Pro M1 (Changed the display 2 times after flashing, I usually used it with MIUI 12)  
 Redmi 5A (Got the cover customized)  
 Honor 8 Lite (Hu/Ho is fckng sht.)  
 Wileyfox Swift 2X (I've been duped)  
-Redmi Note 4 (3/32 verygood, F ±2021-2025)  
+Redmi Note 4 (3/32 verygood, F ±2021-2025, reborn feb2026)  
 Honor 9 Lite (Hu/Ho is fckng sht.)  
-Galaxy J2 Prime (Mom's)  
+Galaxy J2 Prime (Mom's, was used as a spare)  
 Redmi 5 Plus (No Vibration)  
-Redmi Note 5 (3/32 good)  
+Redmi Note 5 (3/32 ±good)  
 Redmi Note 7 (3/32 is a pain)  
 Galaxy S10e (exynos / all time locked bootloader)  
 Redmi Note 9 Pro (Batteryphone, very big for me)  
 Redmi Note 5 (4/64 red, still with me)  
-Lumia 950 (For Windows, ±disappointment)  
-Mi MIX 2S (VERY Disappointment)  
-Pixel 3a (Bad battery, disappointment)  
-Redmi S2 (mido 18:9 720p, 3/32, acceptable)  
-Mi Pad2 (Custom, disappointment)  
+Lumia 950 (For Windows, ±disappointment because of a slow processor on Win)  
+Mi MIX 2S (VERY Disappointment, battery drains quickly on any custom ROM, and MirPay is a pain. It works better on Windows than on Android.)  
+Pixel 3a (Bad battery, burned screen, disappointment)  
+Mi Note 10 (Disappointing battery life, a bit heavy)  
+Redmi S2 (mido 18:9 720p, LOS 23.2 working fine on 3/32, gave to grandma)  
+Mi Pad2 (Custom, disappointment. Due to modifications, fastboot are not working, Atom processor, and USB 2.0)  
+Redmi Note 12 4G NFC (Crap because 120Hz, very laggy on 60Hz)  
+Qin F22 Pro 4/64 (For grandma, i wanted F21 even more. Grandma didn't like it)  
 </details>
