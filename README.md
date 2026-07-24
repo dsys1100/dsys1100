@@ -30,9 +30,9 @@
 [![Matrix](https://img.shields.io/badge/Matrix-black?style=flat&link=https://matrix.to/#/@dsys1100:matrix.org)](https://matrix.to/#/@dsys1100:matrix.org)
 [![BK](https://img.shields.io/badge/BK-0077FF?style=flat&link=https://vk.com/dsys1100)](https://vk.com/dsys1100) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&link=https://github.com/dsys1100)](https://github.com/dsys1100)
-[![Testing](https://img.shields.io/badge/Testing-black?style=flat&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
 [![Gitlab](https://img.shields.io/badge/Gitlab-E3442B?style=flat&link=https://gitlab.com/dsys1100)](https://gitlab.com/dsys1100)
-[![Archive](https://img.shields.io/badge/Archive-222222?style=flat&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)  
+[![Archive](https://img.shields.io/badge/Archive-222222?style=flat&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)
+[![LastFM](https://img.shields.io/badge/LastFM-BA0500?style=flat&link=https://last.fm/ru/user/dsys1100)](https://last.fm/ru/user/dsys1100)  
 [![Steam](https://img.shields.io/badge/Steam-0E1C31?style=flat&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
 [![Trade](https://img.shields.io/badge/Trade-0E1C31?style=flat&link=https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)](https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)
 [![Donate](https://img.shields.io/badge/Donate-F58D07?style=flat&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
@@ -52,6 +52,7 @@
 [Нормальная автосборка DebianOnMido](https://github.com/dsys1100/debian-on-mido-auto)  
 [Перезаливщик файлов на Actions / Prvt](https://github.com/dsys1100/filemirror/actions/workflows/build.yml)  
 [Загрузчик apk с GP на Actions / Prvt](https://github.com/dsys1100/apk-downloader/actions/workflows/download_apk.yml)  
+[QEMU Virgl / Fork](https://github.com/dsys1100/qemu-virgl-winhost)  
 [Линуксовые бинарники](https://github.com/dsys1100/static-binaries)  
 [Конфиги](https://github.com/dsys1100/dotfiles)
 
@@ -67,6 +68,7 @@
 
 <details><summary>Штуки для Redmi Note 4</summary>
 
+   [KSU ядро](https://github.com/dsys1100/zLOS-modified)  
    [Баг в шторке (иконки дока снизу)](https://disk.yandex.ru/i/vqVfpyv3qu4XjQ)  
    [Список без бага, Android 12](https://4pda.to/forum/index.php?act=findpost&pid=115649997&anchor=Spoil-115649997-2)  
    [Мой репак MIUI12.5_A10_el13_port](https://mega.nz/folder/FHIh3AoT#Gx7hUabXruD8UD_-z-f73A)  
@@ -249,9 +251,9 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 [![Matrix](https://img.shields.io/badge/Matrix-black?style=flat&link=https://matrix.to/#/@dsys1100:matrix.org)](https://matrix.to/#/@dsys1100:matrix.org)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=flat&link=https://vk.com/dsys1100)](https://vk.com/dsys1100) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&link=https://github.com/dsys1100)](https://github.com/dsys1100)
-[![Testing](https://img.shields.io/badge/Testing-black?style=flat&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
 [![Gitlab](https://img.shields.io/badge/Gitlab-E3442B?style=flat&link=https://gitlab.com/dsys1100)](https://gitlab.com/dsys1100)
-[![Archive](https://img.shields.io/badge/Archive-222222?style=flat&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)  
+[![Archive](https://img.shields.io/badge/Archive-222222?style=flat&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100)
+[![LastFM](https://img.shields.io/badge/LastFM-BA0500?style=flat&link=https://last.fm/ru/user/dsys1100)](https://last.fm/ru/user/dsys1100)  
 [![Steam](https://img.shields.io/badge/Steam-0E1C31?style=flat&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
 [![Trade](https://img.shields.io/badge/Trade-0E1C31?style=flat&link=https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)](https://steamcommunity.com/tradeoffer/new/?partner=1529726390&token=OI3pVrDE)
 [![Donate](https://img.shields.io/badge/Donate-F58D07?style=flat&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
@@ -271,6 +273,7 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 [Normal autobuilder DebianOnMido](https://github.com/dsys1100/debian-on-mido-auto)  
 [Filemirror on Actions / Prvt](https://github.com/dsys1100/filemirror/actions/workflows/build.yml)  
 [apk Downloader from GP on Actions / Prvt](https://github.com/dsys1100/apk-downloader/actions/workflows/download_apk.yml)  
+[QEMU Virgl / Fork](https://github.com/dsys1100/qemu-virgl-winhost)  
 [Linux binaries](https://github.com/dsys1100/static-binaries)  
 [Dotfiles](https://github.com/dsys1100/dotfiles)
 
@@ -286,6 +289,7 @@ I recently made a playlist with the music I listen to most often. [Click](https:
 
 <details><summary>Redmi Note 4 stuff</summary>
 
+   [KSU kernel](https://github.com/dsys1100/zLOS-modified)  
    [Bug in QS (Look at the icons below)](https://disk.yandex.ru/i/vqVfpyv3qu4XjQ)  
    [List without bug, Android 12](https://4pda.to/forum/index.php?act=findpost&pid=115649997&anchor=Spoil-115649997-2)  
    [My repack MIUI12.5_A10_el13_port](https://mega.nz/folder/FHIh3AoT#Gx7hUabXruD8UD_-z-f73A)  
